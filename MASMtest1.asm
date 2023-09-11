@@ -12,7 +12,7 @@ sum DWORD ?
 
 .code
 main proc
-	mov eax, 7
+	mov eax, 9
 	add eax, 4
 	mov sum, eax
 
